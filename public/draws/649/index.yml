@@ -1,6 +1,0 @@
-combinations:
-  from: 1
-  to: 49
-  drawn: 6
-dataset:
-  type: zip

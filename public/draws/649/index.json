@@ -1,0 +1,5 @@
+{
+  "combinations": { "from": 1, "to": 49, "draw": 6 },
+  "dataset" : { "src": "", "type": "zip" }
+}
+
